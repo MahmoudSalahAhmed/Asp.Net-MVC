@@ -1,0 +1,84 @@
+﻿@using Task.Structure.ViewModels
+@model StatisticsViewModel
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Home</title>
+    <link href="~/Content/Home/Home.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div class="statistics text-center">
+        <div class="container">
+            <div class="row">
+                <div class="col-3">
+                    
+
+                        <div class="card border-secondary mb-3 shadow rounded">
+
+                            <div class="card-body text-secondary">
+                                <h5 class="card-title" style="font-size: 35px;"><b>Groups</b></h5>
+
+                                <p class="card-text" style="font-size: 55px">@Model.Groups</p>
+                            </div> <br> <br>
+                            <div class="cardheader">
+                            </div>
+                        </div>
+                    
+                </div>
+                <div class="col-3">
+                    
+                        <div class="card border-secondary mb-3 shadow rounded">
+
+                            <div class="card-body text-secondary">
+                                <h5 class="card-title" style="font-size: 35px;"><b>Clients</b></h5>
+
+                                <p class="card-text" style="font-size: 55px">@Model.Clients</p>
+                            </div> <br> <br>
+                            <div class="cardheader">
+                            </div>
+                        </div>
+                    
+                </div>
+                <div class="col-3">
+                    
+                        <div class="card border-secondary mb-3 shadow rounded" >
+
+                        <div class="card-body text-secondary">
+                            <h5 class="card-title" style="font-size: 35px;"><b>Orders</b></h5>
+                            
+                            <p class="card-text" style="font-size: 55px">@Model.Orders</p>
+                        </div> <br> <br>
+                        <div class="cardheader">
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="col-3">
+                    
+                        <div class="card border-secondary mb-3 shadow rounded">
+
+                            <div class="card-body text-secondary">
+                                <h5 class="card-title" style="font-size: 35px;"><b>Items</b></h5>
+
+                                <p class="card-text" style="font-size: 55px">@Model.Items</p>
+                            </div> <br> <br>
+                            <div class="cardheader">
+                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+</body>
+</html>

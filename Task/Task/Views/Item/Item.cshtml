@@ -1,0 +1,145 @@
+﻿@using Task.Structure.ViewModels
+@model OrderEditViewModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Item</title>
+    <link href="~/Content/Item/Item.css" rel="stylesheet" />
+</head>
+<body>
+    @if (ViewBag.error != null)
+    {
+        <div class="red-text center error-message">
+            <i class="material-icons">error</i> @ViewBag.error
+            
+        </div>
+    }
+    <div class="Item">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-8">
+                    <table class="table text-center">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">Name</th>
+                                <th scope="col">Price</th>
+                                <th scope="col">Details</th>
+                                <th scope="col">Order</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (ItemViewModel Item in @ViewBag.Items)
+                            {
+
+                                <tr>
+                                    <td>@Item.Name</td>
+                                    <td>@Item.Price</td>
+                                    <td>@Html.ActionLink("details", "Details", "Item", new { id = Item.ID }, new { @class = "btn btn-primary" })</td>
+                                    <td>@Html.ActionLink("Add to Cart", "Cart", "Item", new { id = Item.ID }, new { @class = "btn btn-primary" })</td>
+
+                                </tr>
+
+                            }
+
+                        </tbody>
+
+                    </table>
+                    <div class="row">
+                        <div class="col-4"></div>
+                        <div class="col-2">
+                            @Html.ActionLink("Add Item", "Add", "Item", null, new { @class = "btn btn-primary" })
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="col-4" style="width: 100%;">
+                    @using (Html.BeginForm("OrderNow", "Item", FormMethod.Post))
+                    {
+                        <div class="form-group  text-center">
+                            @Html.Label("Client")
+                            @Html.DropDownListFor(i => i.ClientID, new SelectList(ViewBag.Clients, "ID", "Name"),new { @class="form-control"})
+
+                        </div>
+                        <br />
+                        <div class="card shadow-lg  mb-5 bg-gray rounded
+                        " style="background-color: rgb(245, 244, 244); width: 90%;">
+                            <div class="card-header"
+                                 style="text-align: center; font-size: 25px;   background-color:#81b32b; color: white;">
+                                Cart
+                                <i class="fa fa-shopping-basket"></i>
+                            </div>
+
+                            <div class="card-body" style=" background-color: white;max-height: 250px; overflow:auto;height: 250px; ">
+
+                                @foreach (var cart in TempData["Cart"] as List<Task.Models.Cart>)
+                                {
+                                    <div>
+                                        <div class="row"
+                                             style="text-align: right;  border-radius: 15px ;border: 2px solid gray;background-color:#e4f8bf;color: black;">
+
+                                            <div class="col-4" style="font-size: 18px; margin-top: 10px">
+
+
+                                                <p>
+                                                    @cart.TotalPrice
+                                                </p>
+                                            </div>
+                                            <div class="col-5"
+                                                 style="margin-top: 10px;text-align: center; font-size: 16px; box-sizing: border-box; ">
+
+                                                <p style="box-sizing: border-box;"><b>@cart.ItemName</b></p>
+                                            </div>
+                                            <div class="col-3" style="font-size: 18px; text-align: center;">
+                                                <p style="box-sizing: border-box;"><b>@cart.Quantity</b></p>
+                                            </div>
+
+                                        </div>
+
+                                        <br>
+
+
+
+
+                                    </div>
+
+                                }
+                            </div>
+
+                            <br>
+
+                            <div class="row" style="text-align: center; font-size: 18px;">
+                                <div class="col-6" style="line-height: 28px;">
+                                    Total <br>
+
+                                </div>
+                                <div class="col-6" style="line-height: 28px;">
+                                    <b> @ViewBag.Total </b><br>
+
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-2"></div>
+                                <div class="col-8">
+                                    <input type="submit" value="Order Now" class="btn btn-danger" />
+                                </div>
+                                <div class="col-2"></div>
+                            </div>
+                            <br>
+                        </div>
+                    }
+                </div>
+
+
+
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>

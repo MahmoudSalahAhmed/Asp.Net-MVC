@@ -1,0 +1,569 @@
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Task.dll.config
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Task.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Task.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\csc.exe
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\csc.exe.config
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\csc.rsp
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\csi.exe
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\csi.exe.config
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\csi.rsp
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\Microsoft.Managed.Core.targets
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.AppContext.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Collections.Immutable.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Console.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.IO.Compression.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.IO.FileSystem.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.IO.Pipes.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Reflection.Metadata.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Security.AccessControl.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Security.Claims.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Security.Principal.Windows.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.ValueTuple.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Xml.XmlDocument.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Xml.XPath.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\vbc.exe
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\vbc.exe.config
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\vbc.rsp
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\VBCSCompiler.exe
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\roslyn\VBCSCompiler.exe.config
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\EntityFramework.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\EntityFramework.SqlServer.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Microsoft.Web.Infrastructure.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Web.Helpers.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Web.Mvc.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Web.Razor.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Web.Webpages.Deployment.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Web.Webpages.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Web.Webpages.Razor.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\EntityFramework.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\EntityFramework.SqlServer.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Web.Razor.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Web.Webpages.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Web.Webpages.Deployment.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Web.Webpages.Razor.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Web.Helpers.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Web.Mvc.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+F:\ASP.Net\Tasks\Day 5\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+F:\ASP.Net\Tasks\Day 5\Task\Task\obj\Debug\Task.csproj.CopyComplete
+F:\ASP.Net\Tasks\Day 5\Task\Task\obj\Debug\Task.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\obj\Debug\Task.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task\obj\Debug\Task.Migrations.Init.resources
+F:\ASP.Net\Tasks\Day 5\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Microsoft.Win32.Primitives.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\netstandard.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.AppContext.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Collections.Concurrent.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Collections.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Collections.NonGeneric.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Collections.Specialized.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.ComponentModel.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.ComponentModel.EventBasedAsync.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.ComponentModel.Primitives.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.ComponentModel.TypeConverter.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Console.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Data.Common.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Diagnostics.Contracts.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Diagnostics.Debug.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Diagnostics.FileVersionInfo.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Diagnostics.Process.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Diagnostics.StackTrace.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Diagnostics.TextWriterTraceListener.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Diagnostics.Tools.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Diagnostics.TraceSource.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Diagnostics.Tracing.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Drawing.Primitives.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Dynamic.Runtime.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Globalization.Calendars.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Globalization.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Globalization.Extensions.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.IO.Compression.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.IO.Compression.ZipFile.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.IO.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.IO.FileSystem.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.IO.FileSystem.DriveInfo.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.IO.FileSystem.Primitives.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.IO.FileSystem.Watcher.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.IO.IsolatedStorage.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.IO.MemoryMappedFiles.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.IO.Pipes.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.IO.UnmanagedMemoryStream.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Linq.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Linq.Expressions.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Linq.Parallel.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Linq.Queryable.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Net.Http.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Net.NameResolution.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Net.NetworkInformation.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Net.Ping.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Net.Primitives.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Net.Requests.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Net.Security.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Net.Sockets.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Net.WebHeaderCollection.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Net.WebSockets.Client.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Net.WebSockets.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.ObjectModel.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Reflection.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Reflection.Extensions.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Reflection.Primitives.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Resources.Reader.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Resources.ResourceManager.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Resources.Writer.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.CompilerServices.VisualC.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.Extensions.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.Handles.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.InteropServices.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.Numerics.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.Serialization.Formatters.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.Serialization.Json.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.Serialization.Primitives.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.Serialization.Xml.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Security.Claims.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Security.Cryptography.Algorithms.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Security.Cryptography.Csp.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Security.Cryptography.Encoding.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Security.Cryptography.Primitives.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Security.Cryptography.X509Certificates.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Security.Principal.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Security.SecureString.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Text.Encoding.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Text.Encoding.Extensions.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Text.RegularExpressions.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Threading.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Threading.Overlapped.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Threading.Tasks.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Threading.Tasks.Parallel.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Threading.Thread.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Threading.ThreadPool.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Threading.Timer.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.ValueTuple.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Xml.ReaderWriter.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Xml.XDocument.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Xml.XmlDocument.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Xml.XmlSerializer.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Xml.XPath.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Xml.XPath.XDocument.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Autofac.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Autofac.Integration.Mvc.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Threading.Tasks.Extensions.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Autofac.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Autofac.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Autofac.Integration.Mvc.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\System.Threading.Tasks.Extensions.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Task.Structure.Entities.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Task.Structure.Repositories.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Task.Structure.Services.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Task.Structure.ViewModels.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Task.Structure.Entities.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Task.Structure.Repositories.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Task.Structure.Repositories.dll.config
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Task.Structure.Services.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task\bin\Task.Structure.ViewModels.pdb
+E:\works\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+E:\works\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+E:\works\Task\Task\obj\Debug\Task.dll
+E:\works\Task\Task\obj\Debug\Task.pdb
+E:\works\Task\Task\bin\Task.dll.config
+E:\works\Task\Task\bin\Task.dll
+E:\works\Task\Task\bin\Task.pdb
+E:\works\Task\Task\bin\roslyn\csc.exe
+E:\works\Task\Task\bin\roslyn\csc.exe.config
+E:\works\Task\Task\bin\roslyn\csc.rsp
+E:\works\Task\Task\bin\roslyn\csi.exe
+E:\works\Task\Task\bin\roslyn\csi.exe.config
+E:\works\Task\Task\bin\roslyn\csi.rsp
+E:\works\Task\Task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\works\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\works\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\works\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\works\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\works\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\works\Task\Task\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\works\Task\Task\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\works\Task\Task\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\works\Task\Task\bin\roslyn\Microsoft.Managed.Core.targets
+E:\works\Task\Task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\works\Task\Task\bin\roslyn\System.AppContext.dll
+E:\works\Task\Task\bin\roslyn\System.Collections.Immutable.dll
+E:\works\Task\Task\bin\roslyn\System.Console.dll
+E:\works\Task\Task\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\works\Task\Task\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\works\Task\Task\bin\roslyn\System.IO.Compression.dll
+E:\works\Task\Task\bin\roslyn\System.IO.FileSystem.dll
+E:\works\Task\Task\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\works\Task\Task\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\works\Task\Task\bin\roslyn\System.IO.Pipes.dll
+E:\works\Task\Task\bin\roslyn\System.Reflection.Metadata.dll
+E:\works\Task\Task\bin\roslyn\System.Security.AccessControl.dll
+E:\works\Task\Task\bin\roslyn\System.Security.Claims.dll
+E:\works\Task\Task\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\works\Task\Task\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\works\Task\Task\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\works\Task\Task\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\works\Task\Task\bin\roslyn\System.Security.Principal.Windows.dll
+E:\works\Task\Task\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\works\Task\Task\bin\roslyn\System.ValueTuple.dll
+E:\works\Task\Task\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\works\Task\Task\bin\roslyn\System.Xml.XmlDocument.dll
+E:\works\Task\Task\bin\roslyn\System.Xml.XPath.dll
+E:\works\Task\Task\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\works\Task\Task\bin\roslyn\vbc.exe
+E:\works\Task\Task\bin\roslyn\vbc.exe.config
+E:\works\Task\Task\bin\roslyn\vbc.rsp
+E:\works\Task\Task\bin\roslyn\VBCSCompiler.exe
+E:\works\Task\Task\bin\roslyn\VBCSCompiler.exe.config
+E:\works\Task\Task\bin\Microsoft.Win32.Primitives.dll
+E:\works\Task\Task\bin\netstandard.dll
+E:\works\Task\Task\bin\System.AppContext.dll
+E:\works\Task\Task\bin\System.Collections.Concurrent.dll
+E:\works\Task\Task\bin\System.Collections.dll
+E:\works\Task\Task\bin\System.Collections.NonGeneric.dll
+E:\works\Task\Task\bin\System.Collections.Specialized.dll
+E:\works\Task\Task\bin\System.ComponentModel.dll
+E:\works\Task\Task\bin\System.ComponentModel.EventBasedAsync.dll
+E:\works\Task\Task\bin\System.ComponentModel.Primitives.dll
+E:\works\Task\Task\bin\System.ComponentModel.TypeConverter.dll
+E:\works\Task\Task\bin\System.Console.dll
+E:\works\Task\Task\bin\System.Data.Common.dll
+E:\works\Task\Task\bin\System.Diagnostics.Contracts.dll
+E:\works\Task\Task\bin\System.Diagnostics.Debug.dll
+E:\works\Task\Task\bin\System.Diagnostics.FileVersionInfo.dll
+E:\works\Task\Task\bin\System.Diagnostics.Process.dll
+E:\works\Task\Task\bin\System.Diagnostics.StackTrace.dll
+E:\works\Task\Task\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\works\Task\Task\bin\System.Diagnostics.Tools.dll
+E:\works\Task\Task\bin\System.Diagnostics.TraceSource.dll
+E:\works\Task\Task\bin\System.Diagnostics.Tracing.dll
+E:\works\Task\Task\bin\System.Drawing.Primitives.dll
+E:\works\Task\Task\bin\System.Dynamic.Runtime.dll
+E:\works\Task\Task\bin\System.Globalization.Calendars.dll
+E:\works\Task\Task\bin\System.Globalization.dll
+E:\works\Task\Task\bin\System.Globalization.Extensions.dll
+E:\works\Task\Task\bin\System.IO.Compression.dll
+E:\works\Task\Task\bin\System.IO.Compression.ZipFile.dll
+E:\works\Task\Task\bin\System.IO.dll
+E:\works\Task\Task\bin\System.IO.FileSystem.dll
+E:\works\Task\Task\bin\System.IO.FileSystem.DriveInfo.dll
+E:\works\Task\Task\bin\System.IO.FileSystem.Primitives.dll
+E:\works\Task\Task\bin\System.IO.FileSystem.Watcher.dll
+E:\works\Task\Task\bin\System.IO.IsolatedStorage.dll
+E:\works\Task\Task\bin\System.IO.MemoryMappedFiles.dll
+E:\works\Task\Task\bin\System.IO.Pipes.dll
+E:\works\Task\Task\bin\System.IO.UnmanagedMemoryStream.dll
+E:\works\Task\Task\bin\System.Linq.dll
+E:\works\Task\Task\bin\System.Linq.Expressions.dll
+E:\works\Task\Task\bin\System.Linq.Parallel.dll
+E:\works\Task\Task\bin\System.Linq.Queryable.dll
+E:\works\Task\Task\bin\System.Net.Http.dll
+E:\works\Task\Task\bin\System.Net.NameResolution.dll
+E:\works\Task\Task\bin\System.Net.NetworkInformation.dll
+E:\works\Task\Task\bin\System.Net.Ping.dll
+E:\works\Task\Task\bin\System.Net.Primitives.dll
+E:\works\Task\Task\bin\System.Net.Requests.dll
+E:\works\Task\Task\bin\System.Net.Security.dll
+E:\works\Task\Task\bin\System.Net.Sockets.dll
+E:\works\Task\Task\bin\System.Net.WebHeaderCollection.dll
+E:\works\Task\Task\bin\System.Net.WebSockets.Client.dll
+E:\works\Task\Task\bin\System.Net.WebSockets.dll
+E:\works\Task\Task\bin\System.ObjectModel.dll
+E:\works\Task\Task\bin\System.Reflection.dll
+E:\works\Task\Task\bin\System.Reflection.Extensions.dll
+E:\works\Task\Task\bin\System.Reflection.Primitives.dll
+E:\works\Task\Task\bin\System.Resources.Reader.dll
+E:\works\Task\Task\bin\System.Resources.ResourceManager.dll
+E:\works\Task\Task\bin\System.Resources.Writer.dll
+E:\works\Task\Task\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\works\Task\Task\bin\System.Runtime.dll
+E:\works\Task\Task\bin\System.Runtime.Extensions.dll
+E:\works\Task\Task\bin\System.Runtime.Handles.dll
+E:\works\Task\Task\bin\System.Runtime.InteropServices.dll
+E:\works\Task\Task\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\works\Task\Task\bin\System.Runtime.Numerics.dll
+E:\works\Task\Task\bin\System.Runtime.Serialization.Formatters.dll
+E:\works\Task\Task\bin\System.Runtime.Serialization.Json.dll
+E:\works\Task\Task\bin\System.Runtime.Serialization.Primitives.dll
+E:\works\Task\Task\bin\System.Runtime.Serialization.Xml.dll
+E:\works\Task\Task\bin\System.Security.Claims.dll
+E:\works\Task\Task\bin\System.Security.Cryptography.Algorithms.dll
+E:\works\Task\Task\bin\System.Security.Cryptography.Csp.dll
+E:\works\Task\Task\bin\System.Security.Cryptography.Encoding.dll
+E:\works\Task\Task\bin\System.Security.Cryptography.Primitives.dll
+E:\works\Task\Task\bin\System.Security.Cryptography.X509Certificates.dll
+E:\works\Task\Task\bin\System.Security.Principal.dll
+E:\works\Task\Task\bin\System.Security.SecureString.dll
+E:\works\Task\Task\bin\System.Text.Encoding.dll
+E:\works\Task\Task\bin\System.Text.Encoding.Extensions.dll
+E:\works\Task\Task\bin\System.Text.RegularExpressions.dll
+E:\works\Task\Task\bin\System.Threading.dll
+E:\works\Task\Task\bin\System.Threading.Overlapped.dll
+E:\works\Task\Task\bin\System.Threading.Tasks.dll
+E:\works\Task\Task\bin\System.Threading.Tasks.Parallel.dll
+E:\works\Task\Task\bin\System.Threading.Thread.dll
+E:\works\Task\Task\bin\System.Threading.ThreadPool.dll
+E:\works\Task\Task\bin\System.Threading.Timer.dll
+E:\works\Task\Task\bin\System.ValueTuple.dll
+E:\works\Task\Task\bin\System.Xml.ReaderWriter.dll
+E:\works\Task\Task\bin\System.Xml.XDocument.dll
+E:\works\Task\Task\bin\System.Xml.XmlDocument.dll
+E:\works\Task\Task\bin\System.Xml.XmlSerializer.dll
+E:\works\Task\Task\bin\System.Xml.XPath.dll
+E:\works\Task\Task\bin\System.Xml.XPath.XDocument.dll
+E:\works\Task\Task\bin\Autofac.dll
+E:\works\Task\Task\bin\Autofac.Integration.Mvc.dll
+E:\works\Task\Task\bin\EntityFramework.dll
+E:\works\Task\Task\bin\EntityFramework.SqlServer.dll
+E:\works\Task\Task\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\works\Task\Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\works\Task\Task\bin\Microsoft.Web.Infrastructure.dll
+E:\works\Task\Task\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\works\Task\Task\bin\System.Threading.Tasks.Extensions.dll
+E:\works\Task\Task\bin\System.Web.Helpers.dll
+E:\works\Task\Task\bin\System.Web.Mvc.dll
+E:\works\Task\Task\bin\System.Web.Razor.dll
+E:\works\Task\Task\bin\System.Web.Webpages.Deployment.dll
+E:\works\Task\Task\bin\System.Web.Webpages.dll
+E:\works\Task\Task\bin\System.Web.Webpages.Razor.dll
+E:\works\Task\Task\bin\Task.Structure.Entities.dll
+E:\works\Task\Task\bin\Task.Structure.Repositories.dll
+E:\works\Task\Task\bin\Task.Structure.Services.dll
+E:\works\Task\Task\bin\Task.Structure.ViewModels.dll
+E:\works\Task\Task\bin\Task.Structure.Entities.pdb
+E:\works\Task\Task\bin\Task.Structure.Repositories.pdb
+E:\works\Task\Task\bin\Task.Structure.Repositories.dll.config
+E:\works\Task\Task\bin\Task.Structure.Services.pdb
+E:\works\Task\Task\bin\Task.Structure.ViewModels.pdb
+E:\works\Task\Task\bin\Autofac.pdb
+E:\works\Task\Task\bin\Autofac.xml
+E:\works\Task\Task\bin\Autofac.Integration.Mvc.xml
+E:\works\Task\Task\bin\EntityFramework.xml
+E:\works\Task\Task\bin\EntityFramework.SqlServer.xml
+E:\works\Task\Task\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\works\Task\Task\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\works\Task\Task\bin\System.Threading.Tasks.Extensions.xml
+E:\works\Task\Task\bin\System.Web.Razor.xml
+E:\works\Task\Task\bin\System.Web.Webpages.xml
+E:\works\Task\Task\bin\System.Web.Webpages.Deployment.xml
+E:\works\Task\Task\bin\System.Web.Webpages.Razor.xml
+E:\works\Task\Task\bin\System.Web.Helpers.xml
+E:\works\Task\Task\bin\System.Web.Mvc.xml
+E:\works\Task\Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\works\Task\Task\obj\Debug\Task.csproj.CopyComplete
+E:\Mahmoud Salah\Task\Task\bin\Task.dll.config
+E:\Mahmoud Salah\Task\Task\bin\Task.dll
+E:\Mahmoud Salah\Task\Task\bin\Task.pdb
+E:\Mahmoud Salah\Task\Task\bin\roslyn\csc.exe
+E:\Mahmoud Salah\Task\Task\bin\roslyn\csc.exe.config
+E:\Mahmoud Salah\Task\Task\bin\roslyn\csc.rsp
+E:\Mahmoud Salah\Task\Task\bin\roslyn\csi.exe
+E:\Mahmoud Salah\Task\Task\bin\roslyn\csi.exe.config
+E:\Mahmoud Salah\Task\Task\bin\roslyn\csi.rsp
+E:\Mahmoud Salah\Task\Task\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mahmoud Salah\Task\Task\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Mahmoud Salah\Task\Task\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.AppContext.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Collections.Immutable.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Console.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.IO.Compression.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.IO.FileSystem.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.IO.Pipes.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Security.AccessControl.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Security.Claims.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.ValueTuple.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Xml.XPath.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Mahmoud Salah\Task\Task\bin\roslyn\vbc.exe
+E:\Mahmoud Salah\Task\Task\bin\roslyn\vbc.exe.config
+E:\Mahmoud Salah\Task\Task\bin\roslyn\vbc.rsp
+E:\Mahmoud Salah\Task\Task\bin\roslyn\VBCSCompiler.exe
+E:\Mahmoud Salah\Task\Task\bin\roslyn\VBCSCompiler.exe.config
+E:\Mahmoud Salah\Task\Task\bin\Microsoft.Win32.Primitives.dll
+E:\Mahmoud Salah\Task\Task\bin\netstandard.dll
+E:\Mahmoud Salah\Task\Task\bin\System.AppContext.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Collections.Concurrent.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Collections.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Collections.NonGeneric.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Collections.Specialized.dll
+E:\Mahmoud Salah\Task\Task\bin\System.ComponentModel.dll
+E:\Mahmoud Salah\Task\Task\bin\System.ComponentModel.EventBasedAsync.dll
+E:\Mahmoud Salah\Task\Task\bin\System.ComponentModel.Primitives.dll
+E:\Mahmoud Salah\Task\Task\bin\System.ComponentModel.TypeConverter.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Console.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Data.Common.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Diagnostics.Contracts.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Diagnostics.Debug.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Diagnostics.FileVersionInfo.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Diagnostics.Process.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Diagnostics.StackTrace.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Diagnostics.TextWriterTraceListener.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Diagnostics.Tools.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Diagnostics.TraceSource.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Diagnostics.Tracing.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Drawing.Primitives.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Dynamic.Runtime.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Globalization.Calendars.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Globalization.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Globalization.Extensions.dll
+E:\Mahmoud Salah\Task\Task\bin\System.IO.Compression.dll
+E:\Mahmoud Salah\Task\Task\bin\System.IO.Compression.ZipFile.dll
+E:\Mahmoud Salah\Task\Task\bin\System.IO.dll
+E:\Mahmoud Salah\Task\Task\bin\System.IO.FileSystem.dll
+E:\Mahmoud Salah\Task\Task\bin\System.IO.FileSystem.DriveInfo.dll
+E:\Mahmoud Salah\Task\Task\bin\System.IO.FileSystem.Primitives.dll
+E:\Mahmoud Salah\Task\Task\bin\System.IO.FileSystem.Watcher.dll
+E:\Mahmoud Salah\Task\Task\bin\System.IO.IsolatedStorage.dll
+E:\Mahmoud Salah\Task\Task\bin\System.IO.MemoryMappedFiles.dll
+E:\Mahmoud Salah\Task\Task\bin\System.IO.Pipes.dll
+E:\Mahmoud Salah\Task\Task\bin\System.IO.UnmanagedMemoryStream.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Linq.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Linq.Expressions.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Linq.Parallel.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Linq.Queryable.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Net.Http.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Net.NameResolution.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Net.NetworkInformation.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Net.Ping.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Net.Primitives.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Net.Requests.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Net.Security.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Net.Sockets.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Net.WebHeaderCollection.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Net.WebSockets.Client.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Net.WebSockets.dll
+E:\Mahmoud Salah\Task\Task\bin\System.ObjectModel.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Reflection.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Reflection.Extensions.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Reflection.Primitives.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Resources.Reader.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Resources.ResourceManager.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Resources.Writer.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.CompilerServices.VisualC.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.Extensions.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.Handles.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.InteropServices.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.Numerics.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.Serialization.Formatters.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.Serialization.Json.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.Serialization.Primitives.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.Serialization.Xml.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Security.Claims.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Security.Cryptography.Algorithms.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Security.Cryptography.Csp.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Security.Cryptography.Encoding.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Security.Cryptography.Primitives.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Security.Cryptography.X509Certificates.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Security.Principal.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Security.SecureString.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Text.Encoding.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Text.Encoding.Extensions.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Text.RegularExpressions.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Threading.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Threading.Overlapped.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Threading.Tasks.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Threading.Tasks.Parallel.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Threading.Thread.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Threading.ThreadPool.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Threading.Timer.dll
+E:\Mahmoud Salah\Task\Task\bin\System.ValueTuple.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Xml.ReaderWriter.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Xml.XDocument.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Xml.XmlDocument.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Xml.XmlSerializer.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Xml.XPath.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Xml.XPath.XDocument.dll
+E:\Mahmoud Salah\Task\Task\bin\Autofac.dll
+E:\Mahmoud Salah\Task\Task\bin\Autofac.Integration.Mvc.dll
+E:\Mahmoud Salah\Task\Task\bin\EntityFramework.dll
+E:\Mahmoud Salah\Task\Task\bin\EntityFramework.SqlServer.dll
+E:\Mahmoud Salah\Task\Task\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Mahmoud Salah\Task\Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mahmoud Salah\Task\Task\bin\Microsoft.Web.Infrastructure.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Threading.Tasks.Extensions.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Web.Helpers.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Web.Mvc.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Web.Razor.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Web.Webpages.Deployment.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Web.Webpages.dll
+E:\Mahmoud Salah\Task\Task\bin\System.Web.Webpages.Razor.dll
+E:\Mahmoud Salah\Task\Task\bin\Task.Structure.Entities.dll
+E:\Mahmoud Salah\Task\Task\bin\Task.Structure.Repositories.dll
+E:\Mahmoud Salah\Task\Task\bin\Task.Structure.Services.dll
+E:\Mahmoud Salah\Task\Task\bin\Task.Structure.ViewModels.dll
+E:\Mahmoud Salah\Task\Task\bin\Task.Structure.Entities.pdb
+E:\Mahmoud Salah\Task\Task\bin\Task.Structure.Repositories.pdb
+E:\Mahmoud Salah\Task\Task\bin\Task.Structure.Repositories.dll.config
+E:\Mahmoud Salah\Task\Task\bin\Task.Structure.Services.pdb
+E:\Mahmoud Salah\Task\Task\bin\Task.Structure.ViewModels.pdb
+E:\Mahmoud Salah\Task\Task\bin\Autofac.pdb
+E:\Mahmoud Salah\Task\Task\bin\Autofac.xml
+E:\Mahmoud Salah\Task\Task\bin\Autofac.Integration.Mvc.xml
+E:\Mahmoud Salah\Task\Task\bin\EntityFramework.xml
+E:\Mahmoud Salah\Task\Task\bin\EntityFramework.SqlServer.xml
+E:\Mahmoud Salah\Task\Task\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Mahmoud Salah\Task\Task\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\Mahmoud Salah\Task\Task\bin\System.Threading.Tasks.Extensions.xml
+E:\Mahmoud Salah\Task\Task\bin\System.Web.Razor.xml
+E:\Mahmoud Salah\Task\Task\bin\System.Web.Webpages.xml
+E:\Mahmoud Salah\Task\Task\bin\System.Web.Webpages.Deployment.xml
+E:\Mahmoud Salah\Task\Task\bin\System.Web.Webpages.Razor.xml
+E:\Mahmoud Salah\Task\Task\bin\System.Web.Helpers.xml
+E:\Mahmoud Salah\Task\Task\bin\System.Web.Mvc.xml
+E:\Mahmoud Salah\Task\Task\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mahmoud Salah\Task\Task\obj\Debug\Task.csprojAssemblyReference.cache
+E:\Mahmoud Salah\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+E:\Mahmoud Salah\Task\Task\obj\Debug\Task.csproj.CopyComplete
+E:\Mahmoud Salah\Task\Task\obj\Debug\Task.dll
+E:\Mahmoud Salah\Task\Task\obj\Debug\Task.pdb

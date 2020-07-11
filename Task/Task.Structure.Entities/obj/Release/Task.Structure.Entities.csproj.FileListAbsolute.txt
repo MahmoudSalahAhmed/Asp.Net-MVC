@@ -1,0 +1,6 @@
+E:\Mahmoud Salah\Task\Task.Structure.Entities\bin\Release\Task.Structure.Entities.dll
+E:\Mahmoud Salah\Task\Task.Structure.Entities\bin\Release\Task.Structure.Entities.pdb
+E:\Mahmoud Salah\Task\Task.Structure.Entities\obj\Release\Task.Structure.Entities.csprojAssemblyReference.cache
+E:\Mahmoud Salah\Task\Task.Structure.Entities\obj\Release\Task.Structure.Entities.csproj.CoreCompileInputs.cache
+E:\Mahmoud Salah\Task\Task.Structure.Entities\obj\Release\Task.Structure.Entities.dll
+E:\Mahmoud Salah\Task\Task.Structure.Entities\obj\Release\Task.Structure.Entities.pdb

@@ -1,0 +1,16 @@
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\bin\Release\Task.Structure.Repositories.dll.config
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\bin\Release\Task.Structure.Repositories.dll
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\bin\Release\Task.Structure.Repositories.pdb
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\bin\Release\EntityFramework.dll
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\bin\Release\EntityFramework.SqlServer.dll
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\bin\Release\Task.Structure.Entities.dll
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\bin\Release\Task.Structure.Entities.pdb
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\bin\Release\EntityFramework.xml
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\bin\Release\EntityFramework.SqlServer.xml
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\obj\Release\Task.Structure.Repositories.csprojAssemblyReference.cache
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\obj\Release\Task.Structure.Repositories.Migrations.Init.resources
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\obj\Release\Task.Structure.Repositories.csproj.GenerateResource.cache
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\obj\Release\Task.Structure.Repositories.csproj.CoreCompileInputs.cache
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\obj\Release\Task.Structure.Repositories.csproj.CopyComplete
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\obj\Release\Task.Structure.Repositories.dll
+E:\Mahmoud Salah\Task\Task.Structure.Repositories\obj\Release\Task.Structure.Repositories.pdb

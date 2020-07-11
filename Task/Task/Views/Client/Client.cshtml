@@ -1,0 +1,59 @@
+﻿@using Task.Structure.ViewModels
+@model IEnumerable<ClientViewModel>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-1">
+
+                </div>
+                <div class="col-10">
+                    <table class="table text-center">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">Name</th>
+                                <th scope="col">Email</th>
+                                <th scope="col">Phone</th>
+                                <th scope="col">Details</th>
+                            </tr>
+                        </thead>
+                        <br />
+                        <tbody>
+                            @foreach (ClientViewModel Client in @Model)
+                            {
+                                <tr>
+                                    <td>@Client.Name</td>
+                                    <td>@Client.Email</td>
+                                    <td>@Client.Phone</td>
+                                    <td>@Html.ActionLink("details", "Details", "Client", new { id = Client.ID }, new { @class = "btn btn-primary" })</td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+
+
+                </div>
+                <div class="col-2">
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4"></div>
+                <div class="col-2">
+                    @Html.ActionLink("Add Client", "Add","Client", null, new { @class = "btn btn-primary" })
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,9 @@
+E:\Mahmoud Salah\Task\Task.Structure.ViewModels\bin\Release\Task.Structure.ViewModels.dll
+E:\Mahmoud Salah\Task\Task.Structure.ViewModels\bin\Release\Task.Structure.ViewModels.pdb
+E:\Mahmoud Salah\Task\Task.Structure.ViewModels\bin\Release\Task.Structure.Entities.dll
+E:\Mahmoud Salah\Task\Task.Structure.ViewModels\bin\Release\Task.Structure.Entities.pdb
+E:\Mahmoud Salah\Task\Task.Structure.ViewModels\obj\Release\Task.Structure.ViewModels.csprojAssemblyReference.cache
+E:\Mahmoud Salah\Task\Task.Structure.ViewModels\obj\Release\Task.Structure.ViewModels.csproj.CoreCompileInputs.cache
+E:\Mahmoud Salah\Task\Task.Structure.ViewModels\obj\Release\Task.Structure.ViewModels.csproj.CopyComplete
+E:\Mahmoud Salah\Task\Task.Structure.ViewModels\obj\Release\Task.Structure.ViewModels.dll
+E:\Mahmoud Salah\Task\Task.Structure.ViewModels\obj\Release\Task.Structure.ViewModels.pdb

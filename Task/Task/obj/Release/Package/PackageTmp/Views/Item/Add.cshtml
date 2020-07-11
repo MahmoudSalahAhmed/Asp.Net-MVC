@@ -1,0 +1,51 @@
+﻿@using Task.Structure.ViewModels
+@model ItemEditViewModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col-8">
+                    <div class="text-center">
+                        <h1>Add Item</h1>
+                    </div>
+                    @using (Html.BeginForm("Add", "Item", FormMethod.Post))
+                    {
+                            
+                        <div class="form-group">
+                            @Html.LabelFor(i => i.Name)
+                            @Html.TextBoxFor(i => i.Name, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(i => i.Name)
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(i => i.Price)
+                            @Html.TextBoxFor(i => i.Price, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(i => i.Price)
+                        </div>
+                        
+                      
+
+                        <div class="row">
+                            <div class="col-6">
+                                <input type="submit" value="Add" class="btn btn-success" />
+                            </div>
+                            <div class="col-6">
+                                @Html.ActionLink("Back", "Item","Item", null, new { @class = "btn btn-danger" })
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="col-2"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

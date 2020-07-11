@@ -1,0 +1,65 @@
+﻿@using Task.Structure.ViewModels
+@model ClientViewModel
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-1">
+
+                </div>
+                <div class="col-10">
+                    <table class="table text-center">
+                        <thead class="thead-dark">
+                            <tr>
+                                <th scope="col">ID</th>
+                                <th scope="col">Name</th>
+                                <th scope="col">Email</th>
+                                <th scope="col">Phone</th>
+                                <th scope="col">Group</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            <tr>
+                                <td>@Model.ID</td>
+                                <td>@Model.Name</td>
+                                <td>@Model.Email</td>
+                                <td>@Model.Phone</td>
+                                <td>@Model.Group.Name</td>
+                            </tr>
+
+
+                        </tbody>
+                    </table>
+
+
+                </div>
+                <div class="col-2">
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4"></div>
+                <div class="col-1">
+                    @Html.ActionLink("Update", "Update", "Client", new { id = Model.ID }, new { @class = "btn btn-success" })
+                </div>
+                <div class="col-1">
+                    @Html.ActionLink("Delete", "Delete", "Client", new { id = Model.ID }, new { @class = "btn btn-success" })
+                </div>
+                <div class="col-1">
+                    @Html.ActionLink("Back", "Client","Client", null, new { @class = "btn btn-danger" })
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

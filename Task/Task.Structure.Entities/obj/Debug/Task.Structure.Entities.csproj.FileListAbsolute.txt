@@ -1,0 +1,12 @@
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Entities\bin\Debug\Task.Structure.Entities.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Entities\bin\Debug\Task.Structure.Entities.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Entities\obj\Debug\Task.Structure.Entities.csprojAssemblyReference.cache
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Entities\obj\Debug\Task.Structure.Entities.csproj.CoreCompileInputs.cache
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Entities\obj\Debug\Task.Structure.Entities.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Entities\obj\Debug\Task.Structure.Entities.pdb
+E:\works\Task\Task.Structure.Entities\bin\Debug\Task.Structure.Entities.dll
+E:\works\Task\Task.Structure.Entities\bin\Debug\Task.Structure.Entities.pdb
+E:\works\Task\Task.Structure.Entities\obj\Debug\Task.Structure.Entities.csprojAssemblyReference.cache
+E:\works\Task\Task.Structure.Entities\obj\Debug\Task.Structure.Entities.csproj.CoreCompileInputs.cache
+E:\works\Task\Task.Structure.Entities\obj\Debug\Task.Structure.Entities.dll
+E:\works\Task\Task.Structure.Entities\obj\Debug\Task.Structure.Entities.pdb

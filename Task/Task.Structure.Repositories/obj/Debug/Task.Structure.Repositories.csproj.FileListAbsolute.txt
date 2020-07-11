@@ -1,0 +1,32 @@
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\bin\Debug\Task.Structure.Repositories.dll.config
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\bin\Debug\Task.Structure.Repositories.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\bin\Debug\Task.Structure.Repositories.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\bin\Debug\EntityFramework.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\bin\Debug\Task.Structure.Entities.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\bin\Debug\Task.Structure.Entities.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\bin\Debug\EntityFramework.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.csprojAssemblyReference.cache
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.csproj.CoreCompileInputs.cache
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.csproj.CopyComplete
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.Migrations.Init.resources
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.csproj.GenerateResource.cache
+E:\works\Task\Task.Structure.Repositories\bin\Debug\Task.Structure.Repositories.dll.config
+E:\works\Task\Task.Structure.Repositories\bin\Debug\Task.Structure.Repositories.dll
+E:\works\Task\Task.Structure.Repositories\bin\Debug\Task.Structure.Repositories.pdb
+E:\works\Task\Task.Structure.Repositories\bin\Debug\EntityFramework.dll
+E:\works\Task\Task.Structure.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+E:\works\Task\Task.Structure.Repositories\bin\Debug\Task.Structure.Entities.dll
+E:\works\Task\Task.Structure.Repositories\bin\Debug\Task.Structure.Entities.pdb
+E:\works\Task\Task.Structure.Repositories\bin\Debug\EntityFramework.xml
+E:\works\Task\Task.Structure.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+E:\works\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.csprojAssemblyReference.cache
+E:\works\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.csproj.CoreCompileInputs.cache
+E:\works\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.csproj.CopyComplete
+E:\works\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.dll
+E:\works\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.pdb
+E:\works\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.Migrations.Init.resources
+E:\works\Task\Task.Structure.Repositories\obj\Debug\Task.Structure.Repositories.csproj.GenerateResource.cache

@@ -1,0 +1,46 @@
+﻿@using Task.Structure.ViewModels
+@model GroupViewModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col-8">
+                    <div class="text-center">
+                        <h1>Update Group</h1>
+                    </div>
+                    @using (Html.BeginForm("Update", "Group", FormMethod.Post))
+                    {
+                        <div class="form-group"> 
+                            @Html.LabelFor(i => i.Name)
+                            @Html.TextBoxFor(i => i.Name, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(i => i.Name)
+                        </div>
+                        <div class="row">
+                            
+                            <div class="col-3">
+                                <input type="submit" value="Update" class="btn btn-secondary" />
+                            </div>
+                            <div class="col-3">
+                                @Html.ActionLink("Back", "Details", "Group", new {id = Model.ID }, new { @class = "btn btn-danger" })
+                            </div>
+                            <div class="col-3">
+                                
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="col-2"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

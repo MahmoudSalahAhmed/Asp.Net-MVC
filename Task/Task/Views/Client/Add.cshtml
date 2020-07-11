@@ -1,0 +1,60 @@
+﻿@using Task.Structure.ViewModels
+@model ClientEditViewModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col-8">
+                    <div class="text-center">
+                        <h1>Add Client</h1>
+                    </div>
+                    @using (Html.BeginForm("Add", "Client", FormMethod.Post))
+                    {
+                            
+                        <div class="form-group">
+                            @Html.LabelFor(i => i.Name)
+                            @Html.TextBoxFor(i => i.Name, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(i => i.Name)
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(i => i.Email)
+                            @Html.TextBoxFor(i => i.Email, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(i => i.Email)
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(i => i.Phone)
+                            @Html.TextBoxFor(i => i.Phone, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(i => i.Phone )
+                        </div>
+                       
+                        <div class="form-group">
+                            @Html.Label("Group")
+                            @Html.DropDownListFor(i => i.GroupID, new SelectList(ViewBag.Groups, "ID", "Name"))
+                            
+                        </div>
+
+                        <div class="row">
+                            <div class="col-6">
+                                <input type="submit" value="Add" class="btn btn-success" />
+                            </div>
+                            <div class="col-6">
+                                @Html.ActionLink("Back", "Client","Client", null,new { @class = "btn btn-danger" })
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="col-2"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

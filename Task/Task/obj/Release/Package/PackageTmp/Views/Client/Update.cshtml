@@ -1,0 +1,63 @@
+﻿@using Task.Structure.ViewModels
+@model ClientEditViewModel
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <div>
+        <div class="container">
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col-8">
+                    <div class="text-center">
+                        <h1>Update Client</h1>
+                    </div>
+                    @using (Html.BeginForm("Update", "Client", FormMethod.Post))
+                    {
+                        <div class="form-group"> 
+                            @Html.LabelFor(i => i.Name)
+                            @Html.TextBoxFor(i => i.Name, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(i => i.Name)
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(i => i.Email)
+                            @Html.TextBoxFor(i => i.Email , new { @class = "form-control" })
+                            @Html.ValidationMessageFor(i => i.Email)
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(i => i.Phone)
+                            @Html.TextBoxFor(i => i.Phone, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(i => i.Phone)
+                        </div>
+                        
+                            <div class="form-group">
+                                @Html.Label("Group")
+                                @Html.DropDownListFor(i => i.GroupID, new SelectList(ViewBag.Groups, "ID", "Name"))
+                                @Html.ValidationMessageFor(i => i.GroupID)
+                            </div>
+
+                        <div class="row">
+                            
+                            <div class="col-3">
+                                <input type="submit" value="Update" class="btn btn-secondary" />
+                            </div>
+                            <div class="col-3">
+                                @Html.ActionLink("Back", "Details", "Client",new {id = Model.ID }, new { @class = "btn btn-danger" })
+                            </div>
+                            <div class="col-3">
+                                
+                            </div>
+                        </div>
+                    }
+                </div>
+                <div class="col-2"></div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

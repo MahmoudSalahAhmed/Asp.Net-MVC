@@ -1,0 +1,32 @@
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\bin\Debug\Task.Structure.Services.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\bin\Debug\Task.Structure.Services.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\bin\Debug\Task.Structure.Entities.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\bin\Debug\Task.Structure.Repositories.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\bin\Debug\Task.Structure.ViewModels.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\bin\Debug\EntityFramework.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\bin\Debug\Task.Structure.Entities.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\bin\Debug\Task.Structure.Repositories.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\bin\Debug\Task.Structure.Repositories.dll.config
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\bin\Debug\Task.Structure.ViewModels.pdb
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\bin\Debug\EntityFramework.xml
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\obj\Debug\Task.Structure.Services.csprojAssemblyReference.cache
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\obj\Debug\Task.Structure.Services.csproj.CoreCompileInputs.cache
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\obj\Debug\Task.Structure.Services.csproj.CopyComplete
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\obj\Debug\Task.Structure.Services.dll
+F:\ASP.Net\Tasks\Day 5\Task\Task.Structure.Services\obj\Debug\Task.Structure.Services.pdb
+E:\works\Task\Task.Structure.Services\bin\Debug\Task.Structure.Services.dll
+E:\works\Task\Task.Structure.Services\bin\Debug\Task.Structure.Services.pdb
+E:\works\Task\Task.Structure.Services\bin\Debug\Task.Structure.Entities.dll
+E:\works\Task\Task.Structure.Services\bin\Debug\Task.Structure.Repositories.dll
+E:\works\Task\Task.Structure.Services\bin\Debug\Task.Structure.ViewModels.dll
+E:\works\Task\Task.Structure.Services\bin\Debug\EntityFramework.dll
+E:\works\Task\Task.Structure.Services\bin\Debug\Task.Structure.Entities.pdb
+E:\works\Task\Task.Structure.Services\bin\Debug\Task.Structure.Repositories.pdb
+E:\works\Task\Task.Structure.Services\bin\Debug\Task.Structure.Repositories.dll.config
+E:\works\Task\Task.Structure.Services\bin\Debug\Task.Structure.ViewModels.pdb
+E:\works\Task\Task.Structure.Services\bin\Debug\EntityFramework.xml
+E:\works\Task\Task.Structure.Services\obj\Debug\Task.Structure.Services.csprojAssemblyReference.cache
+E:\works\Task\Task.Structure.Services\obj\Debug\Task.Structure.Services.csproj.CoreCompileInputs.cache
+E:\works\Task\Task.Structure.Services\obj\Debug\Task.Structure.Services.csproj.CopyComplete
+E:\works\Task\Task.Structure.Services\obj\Debug\Task.Structure.Services.dll
+E:\works\Task\Task.Structure.Services\obj\Debug\Task.Structure.Services.pdb
